@@ -13,6 +13,10 @@ export default function Newsletter() {
             <Head title="Newsletter" heading="Subscribe to our Newsletter" className="text-center justify-center mx-auto w-fit pt-0"/>
             <form action="" className="flex flex-col mx-auto items-center gap-4 sm:flex-row sm:gap-0 sm:border-[#96BB7C] sm:border sm:w-fit mt-8" onSubmit={(e) => {
                     e.preventDefault()
+                    if(email === "") {
+                        alert("Please enter your email")
+                        return
+                    }
                     alert("Thank you for subscribing")
                     setEmail("")
                 }

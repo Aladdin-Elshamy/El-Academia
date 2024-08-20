@@ -1,4 +1,4 @@
-# El Academia
+# El-Academia
 
 ![screencapture-localhost-5173-2024-08-20-20_26_30](https://github.com/user-attachments/assets/e734f597-5502-4b38-bfdd-118b6aa9adc3)
 
@@ -13,7 +13,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview

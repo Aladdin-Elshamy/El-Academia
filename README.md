@@ -63,7 +63,7 @@ To run the project locally and see the landing page in action:
 npm run dev
 ```
 
-This will start the Vite development server, and the page will be accessible at http://localhost:3000.
+This will start the Vite development server, and the page will be accessible at http://localhost:5173.
 
 ## Deployment
 The landing page is deployed and can be viewed live at [El-Academia](https://el-academia.vercel.app/).

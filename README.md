@@ -24,7 +24,6 @@ This landing page serves as a portfolio piece, highlighting my expertise in buil
 
 - **Responsive Design**: The layout adjusts smoothly across different screen sizes and devices.
 - **Modern UI**: Clean and intuitive user interface with a focus on typography and spacing.
-- **Accessibility**: The design is built with accessibility best practices in mind.
 - **Performance Optimized**: Efficiently optimized for fast loading times.
 
 ## Technologies Used

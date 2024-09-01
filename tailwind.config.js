@@ -16,7 +16,7 @@ export default {
       },
     },
     fontFamily: {
-      'display': ['Montserrat'],
+      'display': ['Montserrat', 'ui-sans-serif', 'system-ui'],
     },
     extend: {},
   },

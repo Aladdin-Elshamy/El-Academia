@@ -78,11 +78,11 @@ export default function BurgerNav() {
                 Contact
               </a>
             </li>
-            <div className="md:hidden w-full md:block md:w-auto">
+            <div className="md:hidden w-full md:w-auto">
               <button className="text-[#96BB7C] font-semibold mt-2 py-2 sm:mt-0 md:ml-5 w-full">
                 Login
               </button>
-              <button className="py-2 px-3 text-white rounded mt-2 sm:mt-0 font-semibold flex items-center gap-4 justify-center bg-[#96BB7C] px-4 py-2 w-full">
+              <button className="py-2 px-3 text-white rounded mt-2 sm:mt-0 font-semibold flex items-center gap-4 justify-center bg-[#96BB7C] w-full">
                 <span>JOIN US</span>
                 <FaArrowRight />
               </button>
@@ -93,7 +93,7 @@ export default function BurgerNav() {
           <button className="text-[#96BB7C] hover:text-green-400 font-semibold md:ml-5">
             Login
           </button>
-          <button className="py-4 px-3 text-white rounded font-semibold flex items-center gap-4 justify-center hover:bg-green-400 bg-[#96BB7C] px-4 py-2">
+          <button className="py-4 px-3 text-white rounded font-semibold flex items-center gap-4 justify-center hover:bg-green-400 bg-[#96BB7C]">
             <span className="text-white text-xs">JOIN US</span>
             <FaArrowRight />
           </button>
